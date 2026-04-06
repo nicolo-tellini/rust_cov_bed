@@ -42,15 +42,23 @@ cd rust_cov_bed
 cargo build --release
 ```
 
+Binary will be located at:
+```bash
+target/release/rust_cov_bed
+```
+
 # Usage
+
+## Show all flags
+```bash 
+rust_cov_bed --help
+```
+
 ## Basic usage
 ```bash
 rust_cov_bed --bam sample.bam --bed regions.bed
 ```
-## show all flags
-```bash 
-rust_cov_bed --help
-```
+
 ## With filters 
 ```bash
 rust_cov_bed \
@@ -61,5 +69,4 @@ rust_cov_bed \
 ```
 
 ## Disclaimer
-
 This software is provided "as is", without any warranties. The code may contain errors or bugs. The author assume no responsibility for any consequences arising from its use.
