@@ -30,7 +30,8 @@ because I needed it.
 
 `rust_cov_bed` does not contains all the flags available in samtools coverage but just a subset was relevant for my analyses.  
 
-feel free forking and add additional if needed, please do not pull request because, I am not familiar with RUST and I have no time to test additional changes.
+feel free forking and adding additional flags or change it. 
+please do not pull request because, I am not familiar with RUST and I have no time to test additional changes.
 
 ---
 
