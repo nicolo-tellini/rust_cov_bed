@@ -1,6 +1,7 @@
 # rust_cov_bed
 
 IMPORTANT
+
 I am not familiar with RUST.
 
 This was written with OpenAI. (2026). ChatGPT (GPT-5.3) [Large language model]. https://chat.openai.com
