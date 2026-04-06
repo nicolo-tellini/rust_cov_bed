@@ -16,7 +16,7 @@ This was written with OpenAI. (2026). ChatGPT (GPT-5.3) [Large language model]. 
 
 ## IS THE OUTPUT COMPLETELY IDENTICAL TO SAMTOOLS SOVERAGE?
 
-Not most of the time but it is comparable.
+Not most of the time, but it is comparable.
 
 ---
 
