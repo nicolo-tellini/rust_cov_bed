@@ -37,7 +37,7 @@ feel free forking and add additional if needed, please do not pull request becau
 # How to install 
 
 ```bash
-git clone https://github.com/USERNAME/rust_cov_bed.git 
+https://github.com/nicolo-tellini/rust_cov_bed.git
 cd rust_cov_bed
 cargo build --release
 ```
