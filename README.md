@@ -68,5 +68,8 @@ rust_cov_bed \
   --min-baseq 30 
 ```
 
+## Example output on a real BAM
+<img width="1477" height="235" alt="Screenshot from 2026-04-06 13-34-14" src="https://github.com/user-attachments/assets/c9146c11-66e1-426f-ae74-f411f8a294ee" />
+
 ## Disclaimer
 This software is provided "as is", without any warranties. The code may contain errors or bugs. The author assume no responsibility for any consequences arising from its use.
