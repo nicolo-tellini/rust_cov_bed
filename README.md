@@ -10,7 +10,7 @@ This was written with OpenAI. (2026). ChatGPT (GPT-5.3) [Large language model]. 
 
 ## HOW DOES IT DIFFER FROM SAMTOOLS COVERAGE
 
-`rust_cov_bed` uses as input a BED file, samtools coverage does not at the moment. 
+`rust_cov_bed` uses as input a BED file, samtools coverage does not at the moment. Also, not all flags are implented but a subset of them relevant in the context of my project.
 
 ---
 
